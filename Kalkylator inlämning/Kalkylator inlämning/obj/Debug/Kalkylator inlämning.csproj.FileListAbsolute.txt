@@ -1,0 +1,10 @@
+C:\Users\hassan\source\repos\Kalkylator inlämning\Kalkylator inlämning\bin\Debug\Kalkylator inlämning.exe.config
+C:\Users\hassan\source\repos\Kalkylator inlämning\Kalkylator inlämning\bin\Debug\Kalkylator inlämning.exe
+C:\Users\hassan\source\repos\Kalkylator inlämning\Kalkylator inlämning\bin\Debug\Kalkylator inlämning.pdb
+C:\Users\hassan\source\repos\Kalkylator inlämning\Kalkylator inlämning\obj\Debug\Kalkylator inlämning.csproj.AssemblyReference.cache
+C:\Users\hassan\source\repos\Kalkylator inlämning\Kalkylator inlämning\obj\Debug\Kalkylator_inlämning.Form1.resources
+C:\Users\hassan\source\repos\Kalkylator inlämning\Kalkylator inlämning\obj\Debug\Kalkylator_inlämning.Properties.Resources.resources
+C:\Users\hassan\source\repos\Kalkylator inlämning\Kalkylator inlämning\obj\Debug\Kalkylator inlämning.csproj.GenerateResource.cache
+C:\Users\hassan\source\repos\Kalkylator inlämning\Kalkylator inlämning\obj\Debug\Kalkylator inlämning.csproj.CoreCompileInputs.cache
+C:\Users\hassan\source\repos\Kalkylator inlämning\Kalkylator inlämning\obj\Debug\Kalkylator inlämning.exe
+C:\Users\hassan\source\repos\Kalkylator inlämning\Kalkylator inlämning\obj\Debug\Kalkylator inlämning.pdb
